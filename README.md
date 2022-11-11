@@ -1,5 +1,3 @@
-# .github
-
 [![Slack](https://img.shields.io/badge/Slack-@adora-foundation.slack.com-yellow.svg)](https://adora-foundation.slack.com)
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-@aadora-foundation-lightgray.svg)](https://https://www.linkedin.com/company/adora-foundation-ltd/)
 
